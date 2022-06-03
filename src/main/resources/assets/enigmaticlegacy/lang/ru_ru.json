@@ -368,8 +368,8 @@
 	"advancement.enigmaticlegacy:theCube": "Этот куб излечил мою смертность",
 	"advancement.enigmaticlegacy:theCube.desc": "Придайте всем камням стихий форму, одинаково мощную и неестественную, создав Неевклидов куб",
 	
-	"advancement.enigmaticlegacy:fabulousScroll": "Touch the Skies",
-	"advancement.enigmaticlegacy:fabulousScroll.desc": "Obtain Grace of the Creator",
+	"advancement.enigmaticlegacy:fabulousScroll": "Прикоснуться к небесам",
+	"advancement.enigmaticlegacy:fabulousScroll.desc": "Получите Благословение Творца",
 
 	"tooltip.enigmaticlegacy.holdShift": "§5Удерживайте §6Shift§5 для деталей.",
 	
@@ -981,63 +981,63 @@
 	"gui.enigmaticlegacy.blazing_core__COMMENT": "Две приведенные выше строки позволяют перемещать заголовок панели нагрева, определяя смещение X и смещение Y к любым положительным или отрицательным целым числам. Это может потребоваться для некоторых локализаций больше, чем для других, в зависимости от количества символов, которые требуется для написания названия. Вы также можете оставить заголовок пустым, если вы не можете придумать решение, которое бы выглядело хорошо, чтобы оно просто не отображалось. Четыре или менее символа идеально подходят без каких-либо исправлений. Строка, которую вы сейчас читаете, является просто комментарием для локализаторов - вам не нужно ее переводить.",
 	
 	"quote.no_peril_1": "Где нет риска в задаче - там не может быть славы в ее выполнении.",
-	"quote.end_doorstep_1": "Порог Края... всего один шаг разделяет вас с ним.",
-	"quote.only_because_1": "Только то, что вы потерпели поражение, не значит, что нужно сдаваться.",
+	"quote.end_doorstep_1": "Порог Края... всего один шаг разделяет тебя с ним.",
+	"quote.only_because_1": "Только то, что ты потерпел поражение, не значит, что нужно сдаваться.",
 	"quote.demise_is_1": "Для такого полубога, как ты, смерть - лишь временное неудобство.",
 	"quote.we_fall_1": "Мы падаем, чтобы научиться подниматься.",
 	"quote.you_will_endure_1": "Ты вынесешь эту потерю и извлечешь из нее урок.",
-	"quote.oblivion_rejects_1": "Забвение отвергает вас... воспользуйтесь такой возможностью, пока еще можете.",
+	"quote.oblivion_rejects_1": "Забвение отвергает тебя... воспользуйся этой возможностью, пока еще можешь.",
 	"quote.setback_1": "Неудача, но не поражение.",
 	"quote.death_may_1": "Смерть может помешать завоеванию, но остановить его может только сломленная воля.",
-	"quote.eternity_to_keep_1": "У вас есть вечность, чтобы продолжать попытки. Делайте то, что нужно.",
-	"quote.violence_calls_1": "Насилие требует возмездия. Вернитесь и свершите его!",
-	"quote.immortal_1": "Вы бессмертны! Вернитесь и покажите этому жалкому созданию этот факт.",
+	"quote.eternity_to_keep_1": "У тебя есть вечность, чтобы продолжать попытки. Делай, что должен",
+	"quote.violence_calls_1": "Насилие требует возмездия. Вернись и сверши его!",
+	"quote.immortal_1": "Ты бессмертен! Вернись и покажи этому жалкому созданию этот факт.",
 	"quote.appaling_presence_1": "Оболочка исчезла... но ее ужасающий образ навсегда отпечатается в этом мире.",
 	"quote.its_destruction_1": "Его уничтожение - слабое утешение... Учитывая последствия его ужасающего существования.",
 
-	"quote.i_wandered_1": "Yes, I wandered those lands many times...",
-	"quote.i_wandered_2": "A desolate reminder of everything that was, and all that could have been.",
+	"quote.i_wandered_1": "Да, я много раз странствовал по тем землям...",
+	"quote.i_wandered_2": "Опустошённое напоминание о всём, что было, и всём, что могло бы быть.",
 
-	"quote.another_demigod_1": "Another demigod wanders this forsaken land...",
-	"quote.another_demigod_2": "Let me accompany you in your journey. Perhaps, you will manage that which others could not.",
+	"quote.another_demigod_1": "Еще один полубог странствует по этой забытой земле...",
+	"quote.another_demigod_2": "Позвольте мне сопровождать тебя в твоём путешествии. Возможно, тебе удастся сделать то, что не смогли другие.",
 
 	"quote.another_eon_1": "Еще одна эпоха, еще один скиталец. Еще одна история, которую нужно рассказать…",
 	"quote.another_eon_2": "Я буду наблюдать за твоей с великим любопытством.",
 
-	"quote.perhaps_you_1": "Perhaps, you will be the one to uncover the long-forgotten history of this land...",
-	"quote.perhaps_you_2": "If so, I must bear witness to your accomplishments.",
+	"quote.perhaps_you_1": "Возможно, именно ты откроешь давно забытую историю этой земли...",
+	"quote.perhaps_you_2": "Если так, я должен быть свидетелем твоих достижений.",
 
-	"quote.sulfur_air_1": "Sulfur in the air, sharp scent of burnt rock and flesh...",
-	"quote.sulfur_air_2": "This place is a Hell indeed.",
+	"quote.sulfur_air_1": "Сера в воздухе. Резкий запах обожжённых камней и плоти...",
+	"quote.sulfur_air_2": "Это место и правда Ад.",
 
-	"quote.tortured_rocks_1": "Tortured rocks, pale as bones, hanged up above infinite, all-consuming blackness.",
-	"quote.tortured_rocks_2": "The End... is almost like a fever dream.",
+	"quote.tortured_rocks_1": "Измученные скалы, бледные, как кости, повисли над бесконечной, всепоглощающей тьмой.",
+	"quote.tortured_rocks_2": "Край... почти как лихорадочный сон.",
 
-	"quote.breathes_relieved_1": "The world breathes relieved without the burdensome presence of that horror...",
-	"quote.breathes_relieved_2": "So long at least.",
+	"quote.breathes_relieved_1": "Мир вздохнул с облегчением без тягостного присутствия этого ужаса...",
+	"quote.breathes_relieved_2": "По крайней мере, пока.",
 
-	"quote.whether_it_is_1": "Whether it is power, or redemption that you seek in repeatedly returning Wither from and to its grave...",
-	"quote.whether_it_is_2": "...at least, you give that damnable creature a purpose.",
+	"quote.whether_it_is_1": "Что бы ты ни искал - власть или искупление, - ты снова и снова возвращаешь Иссушителя из могилы...",
+	"quote.whether_it_is_2": "...по крайней мере, ты даешь этому чертову созданию цель.",
 
-	"quote.poor_creature_1": "Poor creature... The last of her kind, bound to guard the godforsaken island...",
-	"quote.poor_creature_2": "...in the middle of nothingness. Lay her to the deserved rest.",
+	"quote.poor_creature_1": "Бедное создание... Последняя из своего рода, обреченная охранять забытый богом остров...",
+	"quote.poor_creature_2": "...посреди небытия. Отправьте её на заслуженный отдых.",
 
-	"quote.horrible_existence_1": "What a horrible existence... Brought back from the dead, only to be slain once more.",
-	"quote.horrible_existence_2": "You must truly be devoid of compassion.",
+	"quote.horrible_existence_1": "Какое ужасное существование... Восставший из мертвых, только для того, чтобы быть убитым снова.",
+	"quote.horrible_existence_2": "Вы, должно быть, действительно лишены сострадания.",
 
-	"quote.countless_dead_1": "Countless dead souls, merged into abomination of such terrible form that it defies description.",
-	"quote.countless_dead_2": "The earth is stained by the very presence of this foul creature.",
+	"quote.countless_dead_1": "Бесчисленные мертвые души, слившиеся в мерзость столь ужасающей формы, что она не поддается описанию.",
+	"quote.countless_dead_2": "Земля запятнана самим присутствием этого мерзкого существа.",
 
-	"quote.with_dragons_1": "With dragon's imminent demise, this place seems even more empty and purposeless than before.",
-	"quote.with_dragons_2": "Will you wander those fractured, deserted lands...",
-	"quote.with_dragons_3": "...or return to the facade of sanity and liveliness the Overworld provides?",
-	"quote.with_dragons_4": "Of course, we both know the answer... you cannot resist exploring the unknown, be it now or later.",
+	"quote.with_dragons_1": "После скорой кончины дракона это место кажется еще более пустым и бесцельным, чем раньше.",
+	"quote.with_dragons_2": "Будешь ли ты скитаться по этим истерзанным, пустынным землям...",
+	"quote.with_dragons_3": "...или вернёшься к фасаду благоразумия и оживлённости, коим является Надземный мир?",
+	"quote.with_dragons_4": "Конечно, мы оба знаем ответ... Ты не можешь устоять перед исследованием неизвестного, будь то сейчас или в будущем.",
 
-	"quote.terrifying_form_1": "...its terrifying form is destructible, but not its soul.",
-	"quote.terrifying_form_2": "It bears curse not dissimilar to yours... Curse of immortality.",
+	"quote.terrifying_form_1": "...его ужасающая форма разрушима, но не его душа.",
+	"quote.terrifying_form_2": "На ней лежит проклятие, не отличающееся от твоего... Проклятие бессмертия.",
 
-	"quote.toll_paid_1": "With the toll paid, you are free from the burdensome swell of hatred and sorrow...",
-	"quote.toll_paid_2": "...imprisoned in that ring.",
+	"quote.toll_paid_1": "Заплатив цену - ты свободен от тягостной опухоли ненависти и скорби...",
+	"quote.toll_paid_2": "...что заключена в этом кольце.",
 	
 	
 	"book.enigmaticlegacy.category.accessories.name": "Аксессуары",
