@@ -962,17 +962,17 @@
 	"tooltip.enigmaticlegacy.architectEyeAwakened4": "§5или просто не желает устанавливать какой-либо контакт помимо",
 	"tooltip.enigmaticlegacy.architectEyeAwakened5": "§5ментального, остается загадкой.",
 	
-	"tooltip.enigmaticlegacy.enigmaticElytra1": "§5Hold jump key while flying to continuously",
-	"tooltip.enigmaticlegacy.enigmaticElytra2": "§5accelerate forward. Elytra is damaged",
-	"tooltip.enigmaticlegacy.enigmaticElytra3": "§5faster when accelerating.",
+	"tooltip.enigmaticlegacy.enigmaticElytra1": "§5Удерживайте прыжок во время полета,",
+	"tooltip.enigmaticlegacy.enigmaticElytra2": "§5чтобы постоянно ускоряться. При",
+	"tooltip.enigmaticlegacy.enigmaticElytra3": "§5ускорении элитры будут ломаться быстрее.",
 
-	"tooltip.enigmaticlegacy.ichorBottle1": "§5To contempt the gods, one must know them...",
-	"tooltip.enigmaticlegacy.ichorBottle2": "§5Consume to obtain §6+1§d Charm Slot §5permanently.",
+	"tooltip.enigmaticlegacy.ichorBottle1": "§5Чтобы презирать богов, их нужно знать...",
+	"tooltip.enigmaticlegacy.ichorBottle2": "§5Выпейте, чтобы навсегда получить §6+1§d Слот Амулета.",
 	
-	"tooltip.enigmaticlegacy.quotePlayer1": "§5Press §6Right-Click§5 to play selected quote.",
-	"tooltip.enigmaticlegacy.quotePlayer2": "§5Press §6Shift+Right-Click§5 to cycle through",
-	"tooltip.enigmaticlegacy.quotePlayer3": "§5available quotes.",
-	"tooltip.enigmaticlegacy.quotePlayerSelection": "§dCurrent Quote: §6%1$s",
+	"tooltip.enigmaticlegacy.quotePlayer1": "§5Нажмите §6ПКМ§5 для проигрывания выбранной цитаты.",
+	"tooltip.enigmaticlegacy.quotePlayer2": "§5Нажмите §6Shift+ПКМ§5 чтобы перейти к",
+	"tooltip.enigmaticlegacy.quotePlayer3": "§5следующей цитате",
+	"tooltip.enigmaticlegacy.quotePlayerSelection": "§dВыбранная Цитата: §6%1$s",
 	
 	"gui.enigmaticlegacy.lore_inscriber": "Начертание",
 	"gui.enigmaticlegacy.blazing_core_bar_title": "Тепло",
@@ -1196,7 +1196,7 @@
 	"book.enigmaticlegacy.entry.astral_breaker.page.3": "Единственная плата, которую он потребует, - это уменьшенная область действия по сравнению с эфириевым боевым топором, но в большинстве случаев это не должно быть слишком большой проблемой.<br2/>Он также более долговечен, чем другие эфириевые инструменты.",
 	
 	
-	"book.enigmaticlegacy.entry.unholy_grail.name": "Проклятый грааль",
+	"book.enigmaticlegacy.entry.unholy_grail.name": "Осквернённый грааль",
 	"book.enigmaticlegacy.entry.unholy_grail.heading.1": "Грааль",
 	"book.enigmaticlegacy.entry.unholy_grail.page.1": "Услышав столько легенд о нем, вы были удивлены, обнаружив эту реликвию, просто лежащую посреди безымянных руин. Затерянный среди бесполезного мусора и безделушек - как будто в нем не было ничего особенного.<br2/>Впрочем, он оказался таким же бесполезным, как и этих легенды.",
 	"book.enigmaticlegacy.entry.unholy_grail.page.2": "Грааль всегда наполнен водой, независимо от того, сколько вы пьете из него, он останется таким же полным, как и был. Но у этой воды горький привкус пепла, она испорчена и ядовита. В зависимости от того, сколько вы выпьете, до того как осознаете это, он или оставит вас в тяжелом болезненном состоянии, или просто убьет",
@@ -1743,7 +1743,7 @@
 	"book.enigmaticlegacy.entry.curse_transposer.page.3": "проклятие и только проклятие от любого предмета вашего снаряжения; при этом не дешевый, но, тем не менее, способ.",
 	
 	
-	"book.enigmaticlegacy.entry.enigmatic_elytra.name": "Majestic Elytra",
+	"book.enigmaticlegacy.entry.enigmatic_elytra.name": "Величественные крылья",
 	"book.enigmaticlegacy.entry.enigmatic_elytra.page.1": "Combined with some fireworks, Elytra provides an outstanding means of transportation, easily outpacing any horse, boat or minecart alike. There are only two major concerns surrounding its prolonged use - swift weardown, and necessity to maintain steady supply of fireworks.<br2/>Majestic Elytra resolves both of them. It offers remarkable",
 	"book.enigmaticlegacy.entry.enigmatic_elytra.page.2": "durability, and can use enderic energies to propel the wearer forward during the flight at their wish, in a manner not dissimilar to fireworks. Doing so puts greater strain on hardness of the elytra, but insofar it can",
 	"book.enigmaticlegacy.entry.enigmatic_elytra.page.3": "be repaired with etherium in conventional anvil - that should not be too much of a concern.<br2/>Apart from that, it is covered with much more vibrant color patterns, leaving nobody in doubt regarding its magnificent, extraordinary qualities.",
