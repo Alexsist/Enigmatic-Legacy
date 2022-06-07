@@ -104,7 +104,7 @@
 	"block.enigmaticlegacy.etherium_block": "Эфириумовый блок",
 	"block.enigmaticlegacy.cosmic_cake": "Торт бесконечности",
 	"item.enigmaticlegacy.architect_eye_dormant": "Дремлющее око",
-	"item.enigmaticlegacy.architect_eye_active": "Загадачное око",
+	"item.enigmaticlegacy.architect_eye_active": "Непостижимое око",
 	"item.enigmaticlegacy.ichor_bottle": "Бутылка ихора",
 	"item.enigmaticlegacy.quote_player": "Проигрыватель цитат",
 	
@@ -1755,12 +1755,12 @@
 	"book.enigmaticlegacy.entry.ichor_bottle.page.2": "The relic of such rarity is almost impossible to find, and you cannot help but wonder how it happened that one ended up in your hands. Perhaps, you were drawn together by your divine nature, or perhaps some greater power directed you towards it?..",
 	
 	
-	"book.enigmaticlegacy.entry.architect_eye.name": "Inscrutable Eye",
-	"book.enigmaticlegacy.entry.architect_eye.heading.1": "The Eye",
-	"book.enigmaticlegacy.entry.architect_eye.page.1": "An unexpected find among piles of treasure and junk, this eye have immediately consumed your attention with its distinguishably unearthly form. You could not resist the temptation of curiosity, and have chosen to awake it from slumber that lasted many centuries at least, and perhaps even many millenia.<br2/>Creator of the eye have soon",
-	"book.enigmaticlegacy.entry.architect_eye.page.2": "made himself known to you, and now that he is aware of your presence in this world - the eye itself is no longer necessary for him to observe and speak to you. He follows your footsteps since, remarking on things now and then. So far communication between you remains entirely unilateral, and thus it is hard",
-	"book.enigmaticlegacy.entry.architect_eye.page.3": "to establish what he is, and what motive he has to scrupulously contemplate your every move.<br2/>What can be said for sure is that he is no stranger to the world you currently inhabit, nor to higher beings such as you. Most certainly he once walked these lands himself, but extent of his participation in their past history remains a mystery yet. Much as where he is now, why he have chosen to speak to you, and what",
-	"book.enigmaticlegacy.entry.architect_eye.page.4": "expectations he places upon your journey.<br2/>For now, you can only hope that in time he will supply you with desired answers.",
+	"book.enigmaticlegacy.entry.architect_eye.name": "Непостижимое око",
+	"book.enigmaticlegacy.entry.architect_eye.heading.1": "Око",
+	"book.enigmaticlegacy.entry.architect_eye.page.1": "Неожиданная находка среди груды сокровищ и хлама, привлекшая ваше внимание своей необычной внеземной формой. Вы не смогли устоять перед искушением и решили пробудить его ото сна, который длился по меньшей мере несколько веков, а возможно и тысячелетий...<br2/>Теперь, когда создатель глаза знает",
+	"book.enigmaticlegacy.entry.architect_eye.page.2": "о вашем присутствии в этом мире, он больше не нуждается в оке, чтобы наблюдать и говорить с вами. С тех пор он следует за вами по пятам, время от времени комментируя происходящее. Пока что общение между вами остается полностью односторонним, и поэтому трудно",
+	"book.enigmaticlegacy.entry.architect_eye.page.3": "установить, что он собой представляет и какая у него мотивация пристально следить за каждым вашим шагом.<br2/> Единственное, что можно сказать точно - он не чужд ни миру, в котором вы сейчас находитесь, ни высшим существам, подобным вам. Скорее всего, он сам когда-то странствовал по этим землям, но его влияние на прошлое пока остается загадкой...  Как и то, где он находится сейчас, почему решил поговорить с вами и",
+	"book.enigmaticlegacy.entry.architect_eye.page.4": "какие ожидания возлагает на ваше путешествие.<br2/>Пока вы можете лишь надеяться, что со временем он даст вам желаемые ответы.",
 	
 	
 	"book.enigmaticlegacy.landing_text": "Странник, что раскрыл страницы данной книги, внемли: прямо перед тобой лежит источник великих знаний, что содержит в себе описания различных реликвий этого мира, тщательно изученных и категоризованных.Чтоб понять смысл написанного, отправляйся в путь, и когда ты найдёшь что-то новое, данный том расскажет тебе истину..."
