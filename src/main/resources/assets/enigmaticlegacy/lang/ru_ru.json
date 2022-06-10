@@ -105,8 +105,9 @@
 	"block.enigmaticlegacy.cosmic_cake": "Торт бесконечности",
 	"item.enigmaticlegacy.architect_eye_dormant": "Дремлющее око",
 	"item.enigmaticlegacy.architect_eye_active": "Непостижимое око",
-	"item.enigmaticlegacy.ichor_bottle": "Бутылка ихора",
+	"item.enigmaticlegacy.ichor_bottle": "Бутыль ихора",
 	"item.enigmaticlegacy.quote_player": "Проигрыватель цитат",
+	"item.enigmaticlegacy.insignia": "Чарующая Инсигния",
 	
 	"block.enigmaticlegacy.big_lamp": "Лампа",
 	"block.enigmaticlegacy.massive_lamp": "Укреплённая лампа",
@@ -240,9 +241,10 @@
 	"tooltip.enigmaticlegacy.currentKeybind": "§6Текущая клавиша: §d%1$s",
 	"tooltip.enigmaticlegacy.seconds": "секунд",
 	"death.attack.darkness": "%1$s был поглощён тьмой",
+	"message.enigmaticlegacy.cursed_sleep": "Семь проклятий пробуждают неописуемый страх и грызущую неуверенность внутри, когда вы приближаетесь к заманчивому царству снов. Нет надежды для безнадежных, нет сна для бессонных...",
 	"message.enigmaticlegacy.gen_sim_complete": "Симуляция генерации завершена в количестве §632768§5 ротаций; проверьте §6latest.log§5, чтобы увидеть результат.",
 	"message.enigmaticlegacy.animal_analysis_complete": "Анализ реестра завершен; проверьте §6latest.log§5 файл, чтобы увидеть результат.",
-	"message.enigmaticlegacy.voiceover_experimental": "§eHello there! §6Enigmatic Legacy§e developer on the line. Since voiceover is not a common thing for mods to add, I would like you to know that this feature is experimental, and I am actively looking for player feedback on it. Join my §6Discord§e and inform me of your impression once you play with it for some while: §6https://discord.gg/fuWK8ns",
+	"message.enigmaticlegacy.voiceover_experimental": "§еПриветствую! На связи разработчик §6Enigmatic Legacy§e. Поскольку озвучка - не самая обычная вещь для модов, я хотел бы, чтобы вы знали, что эта функция является экспериментальной, и я активно ищу отзывы игроков о ней. Присоединяйтесь к моему §6Discord§e и сообщите мне о своих впечатлениях, когда поиграете с ним некоторое время: §6https://discord.gg/fuWK8ns",
 	"status.enigmaticlegacy.outdated": "Обнаружена новая версия §6Enigmatic Legacy§5: %1$s. Вам стоит оценить её!",
 	"status.enigmaticlegacy.noconnection": "Enigmatic Legacy не удалось проверить наличие обновлений.",
 	"world.enigmaticlegacy.name": "Мир #",
@@ -930,9 +932,10 @@
 	"tooltip.enigmaticlegacy.enderSlayer7": "§5из них превращаются в опыт.",
 	"tooltip.enigmaticlegacy.enderSlayer8": "§5Временно отключает телепортационные способности",
 	"tooltip.enigmaticlegacy.enderSlayer9": "§5§6Шалкеров§5 и §6Эндерменов.",
-	"tooltip.enigmaticlegacy.enderSlayer10": "§5Временно отключает активную способность §6Око Туманности",
-	"tooltip.enigmaticlegacy.enderSlayer11": "§5и способность использовать §6Жемчуг края§5 для",
-	"tooltip.enigmaticlegacy.enderSlayer12": "§5атакуемых игроков.",
+	"tooltip.enigmaticlegacy.enderSlayer10": "§5Временно отключает активную способность §6Оку",
+	"tooltip.enigmaticlegacy.enderSlayer11": "§6Небулы§5, §6Не-Евклидовому Кубу§5 и возможность использовать",
+	"tooltip.enigmaticlegacy.enderSlayer12": "§5§6Эндер жемчуг§5, §6Зелье возврата§5 и §6Искаженное",
+	"tooltip.enigmaticlegacy.enderSlayer13": "§5§6зеркало§5 атакованным игрокам.",
 	
 	"tooltip.enigmaticlegacy.desolationRing1": "§6Железный голем, §6Эндермен, §6Зомбифицированный пиглин§5 и",
 	"tooltip.enigmaticlegacy.desolationRing2": "§6Пиглин§5 не будут появляться в непосредственной близости от вас.",
@@ -961,6 +964,7 @@
 	"tooltip.enigmaticlegacy.architectEyeAwakened3": "§5нуждается в нем для того, чтобы связаться с вами. Неспособен ли он",
 	"tooltip.enigmaticlegacy.architectEyeAwakened4": "§5или просто не желает устанавливать какой-либо контакт помимо",
 	"tooltip.enigmaticlegacy.architectEyeAwakened5": "§5ментального, остается загадкой.",
+	"tooltip.enigmaticlegacy.architectEyeAwakened6": "§5Раскрывает истинное имя игроков, носящих §6Чарующую Инсигнию.",
 	
 	"tooltip.enigmaticlegacy.enigmaticElytra1": "§5Удерживайте прыжок во время полета,",
 	"tooltip.enigmaticlegacy.enigmaticElytra2": "§5чтобы постоянно ускоряться. При",
@@ -973,6 +977,13 @@
 	"tooltip.enigmaticlegacy.quotePlayer2": "§5Нажмите §6Shift+ПКМ§5 чтобы перейти к",
 	"tooltip.enigmaticlegacy.quotePlayer3": "§5следующей цитате",
 	"tooltip.enigmaticlegacy.quotePlayerSelection": "§dВыбранная Цитата: §6%1$s",
+	
+	"tooltip.enigmaticlegacy.insignia1": "§5Изменяет ваше имя, если переимено на §6Наковальне.",
+	"tooltip.enigmaticlegacy.insignia2": "§5Позволяет видеть собственный имя.",
+	"tooltip.enigmaticlegacy.insignia3": "§6Shift+ПКМ§5 держа Инсигнию для переключения.",
+	"tooltip.enigmaticlegacy.insigniaTagDisplayEnabled": "§dВидеть своё имя: §6Включено",
+	"tooltip.enigmaticlegacy.insigniaTagDisplayDisabled": "§dВидеть своё имя: §6Отключено",
+	"tooltip.enigmaticlegacy.insigniaName": "§dВыгравированное имя: %1$s",
 	
 	"gui.enigmaticlegacy.lore_inscriber": "Начертание",
 	"gui.enigmaticlegacy.blazing_core_bar_title": "Тепло",
@@ -1744,15 +1755,15 @@
 	
 	
 	"book.enigmaticlegacy.entry.enigmatic_elytra.name": "Величественные крылья",
-	"book.enigmaticlegacy.entry.enigmatic_elytra.page.1": "Combined with some fireworks, Elytra provides an outstanding means of transportation, easily outpacing any horse, boat or minecart alike. There are only two major concerns surrounding its prolonged use - swift weardown, and necessity to maintain steady supply of fireworks.<br2/>Majestic Elytra resolves both of them. It offers remarkable",
-	"book.enigmaticlegacy.entry.enigmatic_elytra.page.2": "durability, and can use enderic energies to propel the wearer forward during the flight at their wish, in a manner not dissimilar to fireworks. Doing so puts greater strain on hardness of the elytra, but insofar it can",
-	"book.enigmaticlegacy.entry.enigmatic_elytra.page.3": "be repaired with etherium in conventional anvil - that should not be too much of a concern.<br2/>Apart from that, it is covered with much more vibrant color patterns, leaving nobody in doubt regarding its magnificent, extraordinary qualities.",
+	"book.enigmaticlegacy.entry.enigmatic_elytra.page.1": "В сочетании с фейерверками, Элитры становятся превосходным средством передвижения, легко обгоняя любую лошадь, лодку или вагонетку. Есть только две основные проблемы - быстрый износ и необходимость поддерживать постоянный запас фейерверков.<br2/>Величественные Крылья решают обе проблемы. Они обладают замечательной",
+	"book.enigmaticlegacy.entry.enigmatic_elytra.page.2": "прочностью и могут использовать энергию Края, чтобы по желанию владельца ускорять его во время полета в точности, как фейерверки. Это бьёт по прочности крыльев, но поскольку их",
+	"book.enigmaticlegacy.entry.enigmatic_elytra.page.3": "можно починить с помощью эфириума на обычной наковальне - это не должно вызывать беспокойства.<br2/> Кроме того, оно покрыто цветными узорами, не оставляя ни у кого сомнений о их великолепных, экстраординарных качествах.",
 	
 	
-	"book.enigmaticlegacy.entry.ichor_bottle.name": "Bottle of Ichor",
-	"book.enigmaticlegacy.entry.ichor_bottle.heading.1": "The Bottle",
-	"book.enigmaticlegacy.entry.ichor_bottle.page.1": "Where exactly this so called \"blood of gods\" comes from is a question yet unanswered, and perhaps better left as such. Now that you have some at your disposal, however, you can consume it to increase your body's ability to channel arcane energies, allowing you to equip one more of those precious charms that magnify your abilities in one way or another.",
-	"book.enigmaticlegacy.entry.ichor_bottle.page.2": "The relic of such rarity is almost impossible to find, and you cannot help but wonder how it happened that one ended up in your hands. Perhaps, you were drawn together by your divine nature, or perhaps some greater power directed you towards it?..",
+	"book.enigmaticlegacy.entry.ichor_bottle.name": "Бутыль ихора",
+	"book.enigmaticlegacy.entry.ichor_bottle.heading.1": "Бутыль",
+	"book.enigmaticlegacy.entry.ichor_bottle.page.1": "Откуда взялась эта так называемая \"кровь богов\" - вопрос без ответа, который, возможно, лучше оставить таковым. Однако теперь, когда в вашем распоряжении есть немного этой крови, вы можете выпить её, чтобы увеличить способность вашего тела направлять магическую энергию, что позволит вам надеть ещё один из тех драгоценных амулетов, увеличивающих ваши те или иные способности.",
+	"book.enigmaticlegacy.entry.ichor_bottle.page.2": "Реликвию такой редкости найти практически невозможно, и вы не можете не задаваться вопросом, как случилось, что она оказалась в ваших руках. Возможно, вас притянула друг к другу ваша божественная природа, а быть может, какая-то более великая сила направила вас к ней?..",
 	
 	
 	"book.enigmaticlegacy.entry.architect_eye.name": "Непостижимое око",
@@ -1761,6 +1772,12 @@
 	"book.enigmaticlegacy.entry.architect_eye.page.2": "о вашем присутствии в этом мире, он больше не нуждается в оке, чтобы наблюдать и говорить с вами. С тех пор он следует за вами по пятам, время от времени комментируя происходящее. Пока что общение между вами остается полностью односторонним, и поэтому трудно",
 	"book.enigmaticlegacy.entry.architect_eye.page.3": "установить, что он собой представляет и какая у него мотивация пристально следить за каждым вашим шагом.<br2/> Единственное, что можно сказать точно - он не чужд ни миру, в котором вы сейчас находитесь, ни высшим существам, подобным вам. Скорее всего, он сам когда-то странствовал по этим землям, но его влияние на прошлое пока остается загадкой...  Как и то, где он находится сейчас, почему решил поговорить с вами и",
 	"book.enigmaticlegacy.entry.architect_eye.page.4": "какие ожидания возлагает на ваше путешествие.<br2/>Пока вы можете лишь надеяться, что со временем он даст вам желаемые ответы.",
+		
+	
+	"book.enigmaticlegacy.entry.insignia.name": "Чарующая Инсигния",
+	"book.enigmaticlegacy.entry.insignia.page.1": "Хотя эта маленькая безделушка не даст вам увеличения силы, скорости или воли, в ней есть нечто большее, чем кажется на первый взгляд. Она позволяет скрыть ваше имя от глаз других полубогов и заменить его на то, которое вам нравится. Удобно, что при этом не уменьшается количество других амулетов, которые вы можете носить рядом с ним.<br2/>Очевидным использованием",
+	"book.enigmaticlegacy.entry.insignia.page.2": "этой способности является обман, но её потенциал к сожалению, ограничен, поскольку Инсигния влияет только на имя под чужим взором. Кроме того, те, кто обладает определенными богоподобными силами или связан с ними, все равно смогут",
+	"book.enigmaticlegacy.entry.insignia.page.3": "узнать ваше настоящее имя.<br2/>Другой способ - выделиться. Здесь возможности безграничны, особенно учитывая причудливые цвета и стили, которые может создавать Чернильница Архитектора, вполне применимы к альтернативному имени, которое вы можете выгравировать на своей инсигнии.",
 	
 	
 	"book.enigmaticlegacy.landing_text": "Странник, что раскрыл страницы данной книги, внемли: прямо перед тобой лежит источник великих знаний, что содержит в себе описания различных реликвий этого мира, тщательно изученных и категоризованных.Чтоб понять смысл написанного, отправляйся в путь, и когда ты найдёшь что-то новое, данный том расскажет тебе истину..."
